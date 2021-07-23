@@ -1,0 +1,12 @@
+violin.matrix	vioplot
+violin.stats	violin.stats
+violinplot	vioplot
+violinplot.matrix	vioplot
+violinplot.stats	violin.stats
+vioplot	vioplot
+vioplot.data.frame	vioplot
+vioplot.default	vioplot
+vioplot.formula	vioplot
+vioplot.list	vioplot
+vioplot.matrix	vioplot
+vioplot.stats	violin.stats
